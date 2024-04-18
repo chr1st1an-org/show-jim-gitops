@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhn-support-csears/show-jim:e6afd7c37cd02aa849999b6ac17f325f58522ff7@sha256:3bfc390acdb8e7ccc3ce4a7622a3ea980d27a393deea9c6e5f353a5b9a822678
+        - image: quay.io/rhn-support-csears/show-jim:bb702f9eeea8b8024491d76908bb0553166956f4@sha256:b23e84ff5b38d4e51dfb5c95cd34e66425aa79ba710fc137c244f881704ad457
           name: container-image
